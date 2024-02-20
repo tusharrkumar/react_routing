@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: yellow;
+    width: 100%;
+    color: blue;
+    display: inline-block;
+}
+
+h1 {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.links {
+    position: relative;
+    top: -45px;
+    left: 700px;
+}
+
+.abc {
+    padding: 50px;
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    text-decoration: none;
+}
